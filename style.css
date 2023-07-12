@@ -18,7 +18,7 @@ header{
     height: 300px;
     display: block;
     float: left;
-    background-color: var(--verde2);
+    background-color: var(--verde3);
 }
 
 article{
@@ -34,7 +34,7 @@ aside{
     height: 800px;
     display: block;
     float: left;
-    background-color: var(--verde3);
+    background-color: var(--verde2);
 }
 
 footer{
