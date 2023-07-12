@@ -4,6 +4,43 @@
     --azul1: #040433;
     --azul2: #041236;
     --verde1: #04121E;
-    --verde:2 #042C36;
+    --verde2: #042C36;
     --verde3: #043330;
+}
+
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    width: 100%;
+    height: 300px;
+    display: block;
+    float: left;
+    background-color: var(--verde2);
+}
+
+article{
+    width: 70%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: var(--verde1);
+}
+
+aside{
+    width: 30%;
+    height: 800px;
+    display: block;
+    float: left;
+    background-color: var(--verde3);
+}
+
+footer{
+    width: 100%;
+    height: 150px;
+    display: block;
+    float: left;
+    background-color: var(--azul2);
 }
