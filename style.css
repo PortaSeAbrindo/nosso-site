@@ -8,6 +8,16 @@
     --verde3: #043330;
 }
 
+@font-face {
+    font-family: 'coolvetica';
+    src: url('./font/coolvetica/coolvetica\ rg.otf');
+}
+
+@font-face {
+    font-family: 'valorant';
+    src: url(./font/valorant/Valorant\ Font.ttf);
+}
+
 *{
     padding: 0;
     margin: 0;
