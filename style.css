@@ -21,6 +21,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'coolvetica';
 }
 
 header{
@@ -37,6 +38,30 @@ article{
     display: block;
     float: left;
     background-color: var(--verde1);
+}
+
+.imgarticle{
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.divarticle{
+    width: 30%;
+    height: auto;
+    display: block;
+    float: left;
+    color: white;
+    margin-left: 20px;
+    margin-top: 50px;
+    font-size: 16px;
+    text-align: center;
+}
+
+.divarticle:hover{
+    border: 5px solid black;
+    transform: scale(1.1);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, 0.6);
 }
 
 aside{
