@@ -15,7 +15,7 @@
 
 @font-face {
     font-family: 'valorant';
-    src: url(./font/valorant/Valorant\ Font.ttf);
+    src: url('./font/valorant/Valorant\ Font.ttf');
 }
 
 *{
@@ -29,7 +29,36 @@ header{
     display: block;
     float: left;
     background-color: var(--verde3);
+    background-image: url(https://i.pinimg.com/originals/b3/e2/b9/b3e2b982cbc35d388895574b1304e9ff.jpg);
+    opacity: 80%;
 }
+
+header h1{
+    font-family: 'coolvetica';
+    font-size: 120px;
+    text-align: center;
+    padding-top: 70px;
+    color: black;
+}
+
+header a{
+
+ 
+
+
+}
+
+
+
+
+
+
+
+}
+
+
+
+
 
 article{
     width: 70%;
