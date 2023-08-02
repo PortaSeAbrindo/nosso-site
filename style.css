@@ -41,11 +41,15 @@ header h1{
     color: black;
 }
 
+header li{
+    text-align: center;
+    list-style: none;
+    font-size: 18px;
+}
+
 header a{
-
- 
-
-
+    color: white;
+    text-decoration: none;
 }
 
 
