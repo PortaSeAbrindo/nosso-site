@@ -54,3 +54,35 @@ footer{
     float: left;
     background-color: var(--azul2);
 }
+
+
+p{
+text-align:center;
+color: white;
+font-family: 'valorant';
+font-size: 13px;
+}
+
+
+a{
+
+color: rgb(255, 0, 0);
+}
+
+
+
+
+
+
+
+
+
+#N{
+text-align: center;
+}
+
+#E{
+text-align: center;
+
+}
+
