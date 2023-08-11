@@ -144,7 +144,7 @@ footer{
 }
 
 .pfooter{
-    text-align:center;
+    text-align:justify;
     color: white;
     font-family: 'valorant';
     font-size: 13px;
@@ -152,6 +152,7 @@ footer{
 
 .lifooter{
     text-align: center;
+    font-family: 'coolvetica'
 }
     
 a{
@@ -160,8 +161,15 @@ a{
     
 #N{
     text-align: center;
+    color: white;
+    margin-top: 30px;
 }
     
 #E{
     text-align: center; 
+    color: white;
+}
+
+#divfooter{
+    margin-left: 540px;
 }
