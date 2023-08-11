@@ -41,15 +41,24 @@ header h1{
     color: black;
 }
 
+#divheader{
+    margin-left: 415px;
+}
+
 header li{
-    text-align: center;
     list-style: none;
-    font-size: 18px;
+    font-size: 25px;
+    float: left;
+    margin-left: 10px;
 }
 
 header a{
     color: white;
     text-decoration: none;
+}
+
+header a:hover{
+    color: gray;
 }
 
 img{
